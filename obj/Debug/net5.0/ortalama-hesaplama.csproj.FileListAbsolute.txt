@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\bin\Debug\net5.0\ortalama-hesaplama.exe
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\bin\Debug\net5.0\ortalama-hesaplama.deps.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\bin\Debug\net5.0\ortalama-hesaplama.runtimeconfig.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\bin\Debug\net5.0\ortalama-hesaplama.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\bin\Debug\net5.0\ortalama-hesaplama.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\bin\Debug\net5.0\ortalama-hesaplama.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\obj\Debug\net5.0\ortalama-hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\obj\Debug\net5.0\ortalama-hesaplama.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\obj\Debug\net5.0\ortalama-hesaplama.AssemblyInfo.cs
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\obj\Debug\net5.0\ortalama-hesaplama.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\obj\Debug\net5.0\ortalama-hesaplama.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\obj\Debug\net5.0\refint\ortalama-hesaplama.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\obj\Debug\net5.0\ortalama-hesaplama.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\obj\Debug\net5.0\ortalama-hesaplama.genruntimeconfig.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\ortalama-hesaplama\obj\Debug\net5.0\ref\ortalama-hesaplama.dll
